@@ -4,6 +4,7 @@ Programa realizado para el canal de  :video_camera: youtube [Cerebellum](https:/
  
 [Documento PDF](GameOfLife.pdf).
 
+![](PDfimage.jpg)
 
 
 Autor: M.C. Pascual Neftalí Chávez Campos.
